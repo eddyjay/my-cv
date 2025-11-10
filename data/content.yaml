@@ -1,0 +1,114 @@
+BasicInfo:
+  FirstName: Eduardo
+  LastName: Reis
+  Photo: https://avatars.githubusercontent.com/u/10910000?s=400&u=be62fc4d2622760dd3ba1739098b6203defa9d8a&v=4
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +49 170 8008928
+    - Icon: fas fa-envelope
+      Info: eduardo@reis.com.pt
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://eduardo.reis.com.pt" target="_blank">eduardo.reis.com.pt</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Hildesheim, Germany
+
+Profile: I'm a full-stack developer turned project manager, passionate about bridging the gap between people and technology. Over the years, I’ve specialized in transforming difficult, manual-intensive processes into streamlined, automated systems. I love identifying the needs of many and delivering robust, user-friendly tools that make everyday work easier and more efficient. Acting as the central point of contact between users and developers, I’m not afraid to dive deep into the technical details to make sure solutions truly fit their purpose.
+
+
+Experience:
+  - Employer: Robert Bosch GmbH
+    Place: Hildesheim, Germany
+    Positions:
+      - Title: Software Project Leader/Project Manager
+        Date: Apr 2012 - Present
+        Details:
+          - Leading software development projects for production environment, such as data aquisition and display.
+          - Acting as the central communication point between development, external suppliers and internal customers.
+          - Translating complex requirements into actionable technical goals and ensuring alignment across multidisciplinary teams.
+          - Implementing process automation and reporting tools to reduce manual work and improve project transparency.
+        Badges: ['Project Management', 'Java', 'SQL', 'Oracle', 'HTML/CSS', 'JIRA', 'Docker', 'git']
+
+  - Employer: Bosch Car Multimedia Portugal
+    Place: Braga, Portugal
+    Positions:
+      - Title: Software Developer
+        Date: Jan 2010 - Apr 2012
+        Details:
+          - Designed, implemented internal tools to automate production systems, like labeling and alerts.
+          - Created the basis for a centralized alert system that is still in use today.
+          - Created dashboards and reporting tools to visualize KPIs and improve team efficiency.
+        Badges: ['PHP', 'Oracle SQL', 'MySQL', 'HTML', 'CSS', 'Data Visualization']
+
+  - Employer: ITGest
+    Place: Matosinhos, Portugal
+    Positions:
+      - Title: Specialized IT Consultant
+        Date: July 2008 - Jan 2010
+        Details:
+          - ERP implementation and maintenance
+          - Website creation and maintenance
+          - Networks implementation and general IT consulting
+        Badges: ['ERP', 'MSSQL Server', 'Windows Server', 'Cisco Networks']
+
+Education:
+  - Course: Diploma in Electronics and Informatics Engineering
+    Place: University Lusiada - V.N. Famalicão
+    Date: Sep 2001 - Dec 2007
+    Details: Specialised in data analysis and presentation.
+    Badges: ['Project Management', 'Mathematics','Programming', 'Electronics', 'Databases', 'Automation', 'Robotics', 'Microprocessors']
+
+Skills:
+  - Family: Programming
+    Items:
+      - Java
+      - HTML
+      - Javascript
+      - CSS
+      - Oracle SQL
+      - PHP
+      - Visual Basic
+      - Linux bash
+  - Family: Frameworks
+    Items:
+      - Eclipse
+      - Apache httpd Server
+      - Tomcat
+      - Vaadin
+      - JasperReports
+      - node
+      - gradle
+  - Family: Developer Tools
+    Items:
+      - Git
+      - Docker
+      - Jenkins
+      - Azure
+  - Family: Misc
+    Items:
+      - Windows Server
+      - Linux CLI
+      - LaTeX
+
+Languages:
+  - Name: Portuguese
+    Level: Native
+  - Name: English
+    Level: C2
+  - Name: German
+    Level: B2->C1
+  - Name: French
+    Level: A2
+
+Diplomas:
+  - Electronics and Informatics Engineering (2007)
+  - English Cambridge CAE (2000)
+
+Interests:
+  - Gaming
+  - PC building
+  - Homelabbing
+  - 3D printing
+  - Drone flying
+  - Aquarium keeper
+  - Guitar
+  - Chess
