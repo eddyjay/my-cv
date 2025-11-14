@@ -6,7 +6,7 @@ enableEmoji = true
 theme = "almeida-cv"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://eduardo.reis.com.pt/"
+baseURL = "https://eduardo.reis.com.pt/my-cv"
 title = "Eduardo Reis - CV"
 #googleAnalytics = ""
 
